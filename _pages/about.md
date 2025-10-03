@@ -1,8 +1,43 @@
 ---
-permalink: /about/
+permalink: /
 title: "About"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a master's student in Korean Classical Literature at the Department of Korean Language and Literature, Korea University.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Research Interest Keywords
+======
+Korean Studies(Classical Literature), Digital Humanities, Data Science, Natural Language Processing and Media studies
+
+<!-- Academic Positions
+======
+**Sep 2025 - Present**  직위, 전공, 단과대, 대학.   -->
+
+Education
+======
+<i class="fas fa-fw fa-graduation-cap"></i> M.S. 2027. <a href="https://lib001.korea.ac.kr/lib001/index.do" target="_blank">Korean Language and Literature</a>, Korea University.
+<i class="fas fa-fw fa-graduation-cap"></i> B.A. 2025. <a href="https://lib001.korea.ac.kr/lib001/index.do" target="_blank">Korean Language and Literature</a>, <a href="https://mediacom.korea.ac.kr/main/main.html" target="_blank">Media</a>, Korea University.
+
+<!-- Selected Publications
+======
+이름, "논문 제목", *학술지*, (연도) <a href="https://www.riss.kr/link?id=" target="_blank">Link</a> -->
+
+<!-- Featured Grants & Projects
+======
+(**직위**) "**과제명**", 연도, 기관, 비용, 기간, <a href="https://www" target="_blank">Link</a> -->
+
+Skills and Techniques
+======
+1. Python
+   <!-- * Machine/Deep learning
+   * NLP
+   * Data visualization -->
+2. Web Develop (HTML + CSS + JS)
+3. Web Scraping/Crawling
+4. Social Network Analysis (SNA)
+5. Database
