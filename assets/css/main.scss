@@ -2,9 +2,14 @@
 ---
 
 // Overrides
-$max-width: 1480px;
-$type-size-5: 0.7em;
+$max-width: 1380px;
+$author-avatar-size: 150px; // Adjust avatar size
 
 // Import default theme styles
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+// Custom CSS rules for specific adjustments
+.page__content p {
+  font-size: 0.9em; // Adjust main content font size
+}

@@ -20,7 +20,7 @@ Korean Studies(Classical Literature), Digital Humanities, Data Science, Natural 
 
 Education
 ======
-<i class="fas fa-fw fa-graduation-cap"></i> M.S. 2027. <a href="https://lib001.korea.ac.kr/lib001/index.do" target="_blank">Korean Language and Literature</a>, Korea University.
+<i class="fas fa-fw fa-graduation-cap"></i> M.S. 2027. <a href="https://lib001.korea.ac.kr/lib001/index.do" target="_blank">Korean Language and Literature</a>, Korea University.<br>
 <i class="fas fa-fw fa-graduation-cap"></i> B.A. 2025. <a href="https://lib001.korea.ac.kr/lib001/index.do" target="_blank">Korean Language and Literature</a>, <a href="https://mediacom.korea.ac.kr/main/main.html" target="_blank">Media</a>, Korea University.
 
 <!-- Selected Publications
