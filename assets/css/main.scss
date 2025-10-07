@@ -1,0 +1,10 @@
+---
+---
+
+// Overrides
+$max-width: 1380px;
+$type-size-5: 0.9em;
+
+// Import default theme styles
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";

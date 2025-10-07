@@ -34,9 +34,6 @@ Education
 Skills and Techniques
 ======
 1. Python
-   <!-- * Machine/Deep learning
-   * NLP
-   * Data visualization -->
 2. Web Develop (HTML + CSS + JS)
 3. Web Scraping/Crawling
 4. Social Network Analysis (SNA)
