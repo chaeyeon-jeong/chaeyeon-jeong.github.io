@@ -1,9 +1,7 @@
 main:
   - title: "CV"
-    url: /about/
-  - title: "Publications"
-    url: /categories/
-  - title: "Talks"
-    url: /tags/
-  # - title: "About"
-  #   url: /about/
+    # url: /CV/
+  - title: "Presentations"
+    url: /Presentations/
+  - title: "Portfolio"
+    url: /Portfolio/

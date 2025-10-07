@@ -2,8 +2,7 @@
 ---
 
 // Overrides
-$max-width: 1380px;
-$author-avatar-size: 150px; // Adjust avatar size
+$max-width: 1300px;
 
 // Import default theme styles
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
@@ -11,5 +10,10 @@ $author-avatar-size: 150px; // Adjust avatar size
 
 // Custom CSS rules for specific adjustments
 .page__content p {
-  font-size: 0.9em; // Adjust main content font size
+  font-size: 0.8em; // Adjust main content font size
+}
+
+.author__avatar img {
+  width: 150px;
+  height: 150px;
 }
