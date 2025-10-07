@@ -1,6 +1,6 @@
 main:
   - title: "CV"
-    url: /posts/
+    url: /about/
   - title: "Publications"
     url: /categories/
   - title: "Talks"
