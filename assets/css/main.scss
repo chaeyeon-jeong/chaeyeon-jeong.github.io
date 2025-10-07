@@ -2,8 +2,8 @@
 ---
 
 // Overrides
-$max-width: 1380px;
-$type-size-5: 0.9em;
+$max-width: 1480px;
+$type-size-5: 0.7em;
 
 // Import default theme styles
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
