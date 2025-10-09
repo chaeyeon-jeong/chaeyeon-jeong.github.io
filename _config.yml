@@ -99,4 +99,4 @@ tag_archive:
 collections:
   presentations:
     output: true
-    permalink: /:collection/:title/
+    permalink: /:collection/:name/
