@@ -42,7 +42,7 @@ plugins:
 author:
   name   : "Chaeyeon Jeong<br>정채연 | 鄭采沿"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Korean Classical Literature and Digital Humanities Researcher<br>한국 고전문학/디지털 인문학 연구자"
+  bio    : "Korean Classical Literature and<br>Digital Humanities Researcher<br>한국 고전문학/디지털 인문학 연구자"
   employer : "Korea University"
   email    : "sally413@korea.ac.kr"  
   links:
