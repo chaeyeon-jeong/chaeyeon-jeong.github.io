@@ -2,6 +2,6 @@ main:
   - title: "CV"
     # url: /CV/
   - title: "Presentations"
-    url: /Presentations/
+    url: /presentations/
   - title: "Portfolio"
-    url: /Portfolio/
+    url: /portfolios/
