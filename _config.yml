@@ -81,6 +81,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _presentations
+  - scope:
+      path: ""
+      type: presentations
+    values:
+      layout: single
+      author_profile: true
 
 category_archive:
   type: liquid
@@ -92,4 +99,4 @@ tag_archive:
 collections:
   presentations:
     output: true
-    permalink: /presentations/:path/
+    permalink: /:collection/:title/
