@@ -88,3 +88,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+collections:
+  presentations:
+    output: true
+    permalink: /presentations/:path/
